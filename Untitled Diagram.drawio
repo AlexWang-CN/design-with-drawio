@@ -1,9 +1,47 @@
-<mxfile modified="2021-05-06T14:16:27.147Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="NvesmnxNh58b709ufQzb" version="14.6.10" type="github">
-  <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
+<mxfile modified="2021-05-06T14:30:05.998Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="WfM3yLfbFAr8fI0qTHN_" version="14.6.10" type="github" pages="2">
+  <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="现状">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_vDph4-_2GJOsG-jLW1l-163" value="开发语言种类多&lt;br&gt;各个系统间的数据集成缺少监控&lt;br&gt;缺少对数据模型的分析和构建" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HXNm5G8wveBcK3pQ0W9q" name="架构总览">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-0" />
+        <mxCell id="XnInveQIR6jjp1m6aVqz-1" parent="XnInveQIR6jjp1m6aVqz-0" />
+        <mxCell id="XnInveQIR6jjp1m6aVqz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry x="140" y="80" width="220" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-3" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-4" value="FTP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-5" value="XML(IDOC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-6" value="...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-7" value="Json Convert&lt;br&gt;Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-8" value="DMV&lt;br&gt;Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-9" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnInveQIR6jjp1m6aVqz-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
+          <mxGeometry x="420" y="80" width="570" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
