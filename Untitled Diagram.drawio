@@ -1,10 +1,10 @@
-<mxfile modified="2021-05-06T14:40:56.435Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="lHB1DOn0wD2y82UrHnjB" version="14.6.10" type="github" pages="2">
+<mxfile modified="2021-05-06T14:53:46.677Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="xs5KdbGDd5IBS1s7K2zQ" version="14.6.10" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="现状">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_vDph4-_2GJOsG-jLW1l-163" value="开发语言种类多&lt;br&gt;各个系统间的数据集成缺少监控&lt;br&gt;缺少对数据模型的分析和构建" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="_vDph4-_2GJOsG-jLW1l-163" value="开发语言种类多&lt;br&gt;各个系统间的数据集成缺少监控&lt;br&gt;缺少对数据模型的验证/分析" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="400" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -75,6 +75,14 @@
         <mxCell id="XnInveQIR6jjp1m6aVqz-27" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="XnInveQIR6jjp1m6aVqz-1">
           <mxGeometry x="590" y="460" width="180" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6iJYTBl-p2sQ958QCXrZ" name="技术解答">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0APWGcUwLz14J6kGtCH4-0" />
+        <mxCell id="0APWGcUwLz14J6kGtCH4-1" parent="0APWGcUwLz14J6kGtCH4-0" />
       </root>
     </mxGraphModel>
   </diagram>
